@@ -4,7 +4,7 @@ from core.config.base import BaseConfigurator
 
 
 class VmConfigurator(BaseConfigurator):
-    """Configurator for Cloud class."""
+    """Configurator for VM class."""
 
     def __init__(self):
         """Init."""
