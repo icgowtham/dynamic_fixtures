@@ -1,1 +1,1 @@
-"""Environment for PacketLogin 1.0."""
+"""Environment for cloud."""
