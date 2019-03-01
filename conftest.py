@@ -1,4 +1,4 @@
-"""Directory level plugin for Eureka tests."""
+"""Directory level plugin tests."""
 
 from __future__ import (
     absolute_import,
